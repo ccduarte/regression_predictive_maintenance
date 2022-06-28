@@ -22,7 +22,10 @@
     - SVM
 
 **Melhorias que precisam serem feitas:**
+- visualização dos resíduos
 - Teste de modelos ensemble sofisticado: Gradient Boosting e XGBoost
 - Tunning de hiperparâmetros do melhor modelo
 - Mais testes de colinearidade dos dados e aplicação nos modelos
 - Análise mais profunda de outliers
+- uso do MLFlow
+- modularização do notebook em script 
